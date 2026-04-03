@@ -24,11 +24,6 @@ All technical claims are anchored to specific byte offsets in the provided artif
 - `SoC_RAM.bin` (2,068,480 bytes) – BCM4387C2 Wi‑Fi firmware RAM dump  
 - `bluetoothd-hci-2025-06-28_13-25-26.pklg` (4,997,407 bytes) – Bluetooth HCI packet log  
 
-## Disclosure
 
 This analysis represents independent research. 
 
-## Interactive Report
-
-**To view the live analysis:**  
-[📊 Interactive BroadScope Report](https://your-broadscope-site.netlify.app)  
