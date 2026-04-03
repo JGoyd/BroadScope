@@ -1,6 +1,6 @@
 # BroadScope: BCM4387 Autonomous Promiscuous Capture 
 
-This repository contains forensic analysis of the **BroadScope** vulnerability in the Broadcom BCM4387C2 Wi‑Fi/Bluetooth SoC, including evidence of active exploitation captured in a RAM dump from an iPhone 15 Pro Max.
+This repository contains forensic analysis of the **BroadScope** vulnerability in the Broadcom BCM4387C2 Wi‑Fi/Bluetooth SoC, including evidence of active exploitation captured in a RAM dump.
 
 ## Contents
 
